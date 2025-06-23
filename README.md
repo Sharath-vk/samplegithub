@@ -1,2 +1,0 @@
-# samplegithub
-for testing purpose
